@@ -4,6 +4,6 @@
 ## Notes: Automatically set DPS role when polled.
 
 ## LoadManagers: AddonLoader
-## X-LoadOn-Class: Hunter, Mage
+## X-LoadOn-Class: Hunter, Mage, Warlock, Rogue
 
 code.lua

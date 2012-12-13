@@ -1,9 +1,9 @@
 ## Interface: 30000
 ## Author: me
 ## Title: jRole
-## Notes: Automatically set DPS role when polled.
+## Notes: Automatically set role when polled.
 
 ## LoadManagers: AddonLoader
-## X-LoadOn-Class: Hunter, Mage, Warlock, Rogue
+## X-LoadOn-Always: delayed
 
 code.lua
